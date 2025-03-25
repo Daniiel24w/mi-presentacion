@@ -8,3 +8,5 @@ Lista de tecnologia que me interesan:
 -   -La progamacion orientada a objeto.
 -   -La teleinformatica.
 
+Importancia sobre GitHub:
+*   Es importante el uso de github por que es una plataforma esencial para el desarrollo de software, ya que permite gestionar versiones de código, colaborar en proyectos de manera eficiente y almacenar repositorios de forma segura. Facilita el trabajo en equipo mediante control de cambios, revisión de código y la integración con herramientas de desarrollo. Además, es ampliamente utilizada en la industria y el ámbito académico para compartir proyectos, contribuir a software de código abierto y mejorar la productividad de los desarrolladores.
